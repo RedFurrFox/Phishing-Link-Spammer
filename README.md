@@ -16,7 +16,7 @@
 ## How To Use My Code:
 
 ### Step 1: _Find Some "Phishing Link" On Your Inbox_
-### Step 2: _Download My Code By Typing "https://github.com/RedFurrFox/Phishing-Link-Spammer.git"_
+### Step 2: _Download My Code By Typing "git clone https://github.com/RedFurrFox/Phishing-Link-Spammer.git"_
 ### Step 3: _Open My Code On Pycharm/Visual Studio Code/etch. (Any Will Work... IDK)_
 ### Step 4: _Try To Understand My Code (There Are Some Comments Inserted On main.py)_
 ### Step 5: _After Struggling And Crying Around, Run The Code By Typing **".\main.py"** On Terminal_
