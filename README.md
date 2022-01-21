@@ -6,7 +6,7 @@
 ## Unsatisfying Introduction:
 
 ### Tired Of Spam Messages That Is Full Of Phishing Links?
-### Try Pissing Them Off. By Using My Code, You Are Guaranteed That Their Phishing Link Will Be Spammed With Full Of Nonsense Credentials (Provided By You).
+### Try Pissing Them Off. By Using My Code, You Are Guaranteed That Their Phishing Link Will Be Spammed With Full Of Nonsense Credentials (Provided By You). Give Them A Fucks That They Deserve.
 
 ---
 ## About:
