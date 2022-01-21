@@ -9,7 +9,7 @@
 
 ---
 ## About:
-### Used For Spamming A Phishing Link On Any Sites And To Annoy That Bad Hacker ;)
+### - _Used For Spamming A Phishing Link On Any Sites And To Annoy That Pesky Bad Hacker ;)_
 
 ---
 
@@ -26,28 +26,28 @@
 
 ## FULL OF CRAP NOTES!!!:
 
-### I'm Not Responsible For Any Kind Of Reliable Lawsuits Against You When You Use My Code!!! It Is Up For The Person Who Used My Code On Any Links Or For Bad Purposes (My Code, Your Shits)
-### "This Is Used Only To Annoy A Bad Hacker :)" NOT To Be Used On Any Legit Sites Like Google/Facebook/Pornhub/etch...
-### If You Want To Copy/Modify My Code... Feel Free To Do It (With Or Without Credits), Thanks.
-### You Are Visible When Doing This Attack... So Make Sure You're Using Any Kind Of Protection (Like: VPNs And Proxychains)
+### - _I'm Not Responsible For Any Kind Of Reliable Lawsuits Against You When You Use My Code!!! It Is Up For The Person Who Used My Code On Any Links Or For Bad Purposes (My Code, Your Shits)_
+### - _"This Is Used Only To Annoy A Bad Hacker :)" NOT To Be Used On Any Legit Sites Like Google/Facebook/Pornhub/etch..._
+### - _If You Want To Copy/Modify My Code... Feel Free To Do It (With Or Without Credits), Thanks._
+### - _You Are Visible When Doing This Attack... So Make Sure You're Using Any Kind Of Protection (Like: VPNs And Proxychains)_
 ###
-### Have A Very Wonderful Day
+### - _Have A Very Wonderful Day!!!_
 
 ---
 
 ## Issue/s With My Code:
 
-### _- Can Cause DOS On Selected Sites_
-### _- Program Not Working For People Still Learning On The Python Language_
+### - _Can Cause DOS On Selected Sites_
+### - _Program Not Working For People Still Learning On The Python Language_
 
 ---
 
 ## Want To Help To Annoy Some Bad Hackers?
 
-### You Can Help Us By Suggesting Or Adding A Features (Anytime And Anywhere)
+### - _You Can Help Us By Suggesting Or Adding A Features (Anytime And Anywhere)_
 
 ---
 
 ## Join Our Fucking Socials:
 
-### Facebook Group: ["Android Hacker PH"](https://www.facebook.com/groups/1778790372291663)
+### - _Facebook Group: ["Android Hacker PH"](https://www.facebook.com/groups/1778790372291663)_
