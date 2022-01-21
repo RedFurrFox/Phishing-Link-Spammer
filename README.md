@@ -1,5 +1,5 @@
 # <h1 align="center">![Phishing Link Spammer](https://user-images.githubusercontent.com/80197308/150513371-922df668-2bdf-4d76-ba47-713bdf7a2af1.png)
-# <h1 align="center">**Phishing Link Spammer**
+# <h1 align="center">@@**Phishing Link Spammer**@@
 
 ---
 
