@@ -43,6 +43,13 @@
 
 ---
 
+## Plans On Near Future:
+
+### - _Automating The Attack_
+### - _Easy-To-Interact Feature_
+
+---
+  
 ## Want To Help To Annoy Some Bad Hackers?
 
 ### - _You Can Help Us By Suggesting Or Adding A Features (Anytime And Anywhere)_
