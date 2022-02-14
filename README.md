@@ -9,6 +9,8 @@
   
 (Please Use ["PSpammerv2"](https://github.com/RedFurrFox/PSpammerv2) Instead)
 
+Link For ["PSpammerv2"](https://github.com/RedFurrFox/PSpammerv2): "https://github.com/RedFurrFox/PSpammerv2"
+
 ---
 
 ## Join Our Fucking Socials:
